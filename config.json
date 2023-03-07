@@ -1,17 +1,12 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "這裡是部落格測試區",
+  "site_description": "我們在這裡測試部落格的功能及顯示",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "旅遊",
+    "AI",
+    "虛擬化",
+    "網路技術"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
